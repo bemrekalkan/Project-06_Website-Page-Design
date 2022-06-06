@@ -26,14 +26,6 @@ Project aims to create a website page.
         |----images (folder)
 ```
 
-## Expected Outcome
-
-![Project 006 Snapshot](Project_006_1.png)
-
-![Project 006 Snapshot](Project_006_2.png)
-
-![Project 006 Snapshot](Project_006_3.png)
-
 ## Objective
 
 Build a Landing same as in the example images.
