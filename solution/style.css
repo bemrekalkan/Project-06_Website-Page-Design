@@ -1,0 +1,20 @@
+div.img-container {
+  background-image: url(/images/showcase.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 40vh;
+}
+
+nav {
+  background-color: rgb(53, 66, 74);
+}
+
+.clar {
+  color: #a9508b;
+}
+
+nav {
+  height: 9vh;
+}
