@@ -45,3 +45,10 @@ nav {
 .form {
   height: 45vh;
 }
+
+.sendd {
+  border: none;
+  width: 5rem;
+  padding: 0.5rem;
+  border-radius: 0.25rem;
+}
