@@ -5,7 +5,7 @@
 
 ## GO TO NETLIFY ➡ hhttps://06websitepagedesign.netlify.app/
 
-<p><img align="center" alt="gif" src="./images/Project-06-Website-Page-Design" width="500" height="320" /></p>
+<p><img align="center" alt="gif" src="./images/Project-06-Website-Page-Design.gif" width="500" height="320" /></p>
 
 ## Description
 
