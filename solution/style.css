@@ -29,6 +29,19 @@ nav {
   width: 90px;
 }
 
-secondP {
+.secondP {
   background-color: rgb(53, 66, 74);
+}
+
+.textarea {
+  resize: none;
+}
+
+.website {
+  background-color: #e6e6e6;
+  border: 1px solid rgba(135, 132, 132, 0.227);
+}
+
+.form {
+  height: 45vh;
 }
