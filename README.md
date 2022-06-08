@@ -3,7 +3,7 @@
 
 ## Project-06 : WEBSITE PAGE DESIGN
 
-## GO TO NETLIFY ➡ https://05sasswebsite.netlify.app/
+## GO TO NETLIFY ➡ hhttps://06websitepagedesign.netlify.app/
 
 <p><img align="center" alt="gif" src="./images/Project-06-Website-Page-Design" width="500" height="320" /></p>
 
